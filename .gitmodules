@@ -1,0 +1,8 @@
+[submodule "gh-pages"]
+	path = gh-pages
+	url = git@github.com:kmklapak/Practical-Machine-Learning.git
+	branch = gh-pages
+[submodule "dist"]
+	path = dist
+	url = https://github.com/kmklapak/Practical-Machine-Learning.git
+	branch = gh-pages
